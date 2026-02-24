@@ -16,19 +16,19 @@ Hello! I'm Joel Lawler. This page provides an overview of who I am, what I value
 
 What matters most to me:
 
-- **Integrity**: [Describe your commitment to integrity]
-- **Excellence**: [Describe your pursuit of excellence]
-- **Collaboration**: [Describe your collaborative approach]
-- **Growth**: [Describe your commitment to continuous learning]
+- **Integrity**: Integrity, to me, is doing what’s right even when no one is watching — and being honest about what’s true, even when it’s uncomfortable. I strive to create an environment where facts are never softened, accountability is shared, and commitments are honored. Trust is earned through consistency between words and actions, not through titles or intentions.
+- **Excellence**: Excellence is a continuous pursuit, not a finish line. It means setting high standards, caring deeply about the details, and refusing to accept “good enough” when better is possible. I approach excellence through iteration — learning, refining, and optimizing — while maintaining focus on long-term quality over short-term wins.
+- **Collaboration**: I believe the best outcomes come from collective intelligence and respectful debate. My collaborative approach emphasizes psychological safety, clarity of roles, and the freedom to challenge ideas without ego. I see my role as a facilitator — ensuring the team connects dots across disciplines and decisions are made in the best interest of the whole system.
+- **Growth**: Continuous learning is core to both my leadership and identity. I read widely, reflect deeply, and encourage others to do the same. Growth comes from facing reality honestly, being open to feedback, and stepping into challenges that stretch capability. My goal is to build teams where curiosity and improvement are cultural norms, not exceptions.
 
 ## Interests
 
 Beyond work, I'm passionate about:
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
-- [Interest 4]
+- Systems thinking and decision science — understanding how mental models shape clarity and outcomes.
+- Building and mentoring technical communities — helping engineers level up in both craft and leadership.
+- Health and endurance training — maintaining physical discipline to strengthen focus and resilience.
+- Exploring design and architecture — learning how well-structured systems, digital or physical, influence behavior and experience.
 
 ## Skills & Expertise
 
@@ -44,9 +44,9 @@ Proven track record driving operational excellence, robust development lifecycle
 
 ## Contact & Connect
 
-- **LinkedIn**: [Your LinkedIn profile]
-- **GitHub**: [Your GitHub profile]
-- **Email**: [Your email]
+- **LinkedIn**: https://www.linkedin.com/in/joel-lawler/
+- **GitHub**: https://github.com/joeldlawler
+- **Email**: joellawler@gmail.com
 - **Website**: [https://joellawler.com](https://joellawler.com)
 
 ---
