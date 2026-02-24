@@ -33,23 +33,24 @@ My approach to work is driven by [describe your core work philosophy].
 
 ### Development Practices
 
-- [Practice 1: e.g., Agile, TDD, etc.]
-- [Practice 2]
-- [Practice 3]
+- Agile delivery with clear milestones and release predictability
+- CI/CD and GitOps for deployment and infrastructure
+- Architecture design sessions to align on technical direction and code quality
+- Domain-driven design for service boundaries and migration planning (e.g., monolith to microservices)
 
 ### Quality Standards
 
-- [Standard 1: e.g., Code reviews, testing, etc.]
-- [Standard 2]
-- [Standard 3]
+- Rigorous peer review and automated testing to improve system reliability
+- Observability and operational excellence as part of the development lifecycle
+- Lightweight rituals (PR hygiene, prompt libraries) over big process overhauls
 
 ### Tools & Technologies
 
 Preferred tools and technologies I work with:
 
-- **Development**: [Languages, frameworks, IDEs]
-- **Collaboration**: [Communication and project management tools]
-- **Productivity**: [Tools that help you stay productive]
+- **Development**: Node.js · React · C# · .NET Core · Angular · SQL Server · PostgreSQL · AWS · Azure
+- **Collaboration**: Cross-functional workshops with Product and Operations; Jira and GitHub for workflow and reporting
+- **Infrastructure & delivery**: CI/CD pipelines, GitOps, cloud-native SaaS (Azure, AWS), infrastructure automation
 
 ## My Working Agreements
 
@@ -80,5 +81,7 @@ Areas where I'm actively improving:
 
 - [About Me](about-me.md)
 - [How I Lead](how-i-lead.md)
+- [How I Handle Mistakes](how-i-handle-mistakes.md)
+- [How I Solve Problems](how-i-solve-problems.md)
 
 [← Back to Index](index.md)

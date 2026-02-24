@@ -1,35 +1,20 @@
 # About Me - Joel Lawler
 
-A library of markdown pages describing who Joel Lawler is, how he works, and how he leads.
+A library of markdown pages describing who I am, how I work, and how I lead.
 
-## 📚 Purpose
+## Table of Contents
 
-This repository serves as a personal knowledge base and reference guide, making it easy for colleagues, collaborators, and anyone interested to learn about my background, work style, and leadership approach.
+- **[Index](docs/index.md)** — Main navigation hub for all pages
+- **[About Me](docs/about-me.md)** — Background, values, and interests
+- **[How I Work](docs/how-i-work.md)** — Work style, methodologies, and best practices
+- **[How I Lead](docs/how-i-lead.md)** — Leadership philosophy and principles
+- **[How I Handle Mistakes](docs/how-i-handle-mistakes.md)** — Owning, learning from, and repairing mistakes
+- **[How I Solve Problems](docs/how-i-solve-problems.md)** — Systems thinking, root cause, and second-order effects
 
-## 🗂️ Library Structure
+## How to Use
 
-All content is organized in the `/docs` folder:
+1. Start at the [Index](docs/index.md) to see all topics and navigate.
+2. Open any linked page to read more; each page links back to the Index and to related pages.
+3. All content is standard Markdown, readable on GitHub or any Markdown viewer.
 
-- **[Index](docs/index.md)** - Main navigation hub for all pages
-- **[About Me](docs/about-me.md)** - Background, values, and interests
-- **[How I Work](docs/how-i-work.md)** - Work style, methodologies, and best practices
-- **[How I Lead](docs/how-i-lead.md)** - Leadership philosophy and principles
-
-## 🚀 Getting Started
-
-Start at the [Index page](docs/index.md) to explore all available content and navigate to topics of interest.
-
-## 📖 How to Use This Library
-
-1. Browse the [Index](docs/index.md) for an overview of all topics
-2. Click on any topic to learn more about that specific area
-3. Use the navigation links at the top and bottom of each page to move between related topics
-4. All pages use standard Markdown format for easy reading on GitHub or any Markdown viewer
-
-## 🔄 Updates
-
-This library is a living document and will be updated as I grow and evolve. Check back periodically for new content and updates.
-
----
-
-*This repository makes my information easy to find and accessible to anyone who wants to learn more about who I am and how I work.*
+This library is updated over time as I refine how I work and lead. The [Index](docs/index.md) is the best entry point for exploring.

@@ -15,6 +15,12 @@ Discover my work style, methodologies, and best practices I follow.
 ### 🎯 [How I Lead](how-i-lead.md)
 Understand my leadership philosophy, principles, and approach to guiding teams.
 
+### 🔧 [How I Handle Mistakes](how-i-handle-mistakes.md)
+See how I own, learn from, and repair when things go wrong.
+
+### 🧩 [How I Solve Problems](how-i-solve-problems.md)
+Learn my problem-solving process: systems thinking, root cause, and first- and second-level thinking.
+
 ---
 
 ## Quick Links
@@ -22,6 +28,8 @@ Understand my leadership philosophy, principles, and approach to guiding teams.
 - **About Me**: Background, values, and interests
 - **How I Work**: Work style and methodologies
 - **How I Lead**: Leadership philosophy and principles
+- **How I Handle Mistakes**: Owning, learning from, and repairing mistakes
+- **How I Solve Problems**: Systems thinking, root cause, and second-order effects
 
 ---
 
